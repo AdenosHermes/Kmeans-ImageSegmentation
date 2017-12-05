@@ -1,3 +1,4 @@
+
 # K-means For Image Segmentation
 A basic implementation of image segmentation with kmeans using Lloyd's algorithm, with random initialization
 
@@ -7,3 +8,6 @@ Segmented image with k=200: <br>
 
 Raw image: <br>
 <img src="img/figure_1-1.png" alt="raw">
+
+# To Do
+A better initialization with kmeans++
